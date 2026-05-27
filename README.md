@@ -7,10 +7,16 @@ Aspiring cybersecurity professional currently learning cybersecurity fundamental
 - Basic networking
 - Linux fundamentals
 - Cybersecurity basics
+- TryHackMe labs
+
  ## Learning Goals
 - Network security
 - Ethical hacking
 - SOC analysis
+- practicing TryHackMe rooms
 
 ## Projects
-Coming soon. 
+Cybersecurity Portfolio: https://github.com/christabel-security/cybersecurity-portfolio
+
+## Learning Platform
+- TryHackMe: https://tryhackme.com/p/christabel.kerubo
