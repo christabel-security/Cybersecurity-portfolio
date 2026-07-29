@@ -1,7 +1,7 @@
 # Cybersecurity Portfolio
 
 ## About Me
-Aspiring cybersecurity professional currently learning cybersecurity fundamentals and preparing for a cybersecurity bootcamp.
+I'm currently studying cybersecurity and building practical experience through hands-on labs, technical write-ups, and personal projects.
 
 ## Current Skills
 - Basic networking
