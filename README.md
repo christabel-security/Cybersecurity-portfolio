@@ -1,22 +1,34 @@
 # Cybersecurity Portfolio
+Hi, I'm Christabel, a cybersecurity student building
+practical skills through coursework, labs, and hands-on
+security exercises.
 
-## About Me
-I'm currently studying cybersecurity and building practical experience through hands-on labs, technical write-ups, and personal projects.
-
-## Current Skills
-- Basic networking
-- Linux fundamentals
-- Cybersecurity basics
-- TryHackMe labs
-
- ## Learning Goals
-- Network security
-- Ethical hacking
-- SOC analysis
-- practicing TryHackMe rooms
+## Current Focus
+- Linux & system security
+- Networking
+- Cyber threat intelligence
+- Security monitoring
+- Incident analysis
+- MITRE ATT&CK
 
 ## Projects
-Cybersecurity Portfolio: https://github.com/christabel-security/cybersecurity-portfolio
+### Operation Silent Shadow
+Cyber threat intelligence analysis of a simulated
+multi-stage attack.
+
+### Linux System Hardening
+Security configuration assessment and hardening
+of an Ubuntu system.
+
+### Security Log Analysis & IoC Detection
+Log analysis and suspicious-activity detection
+using regular expressions.
+
+## Learning
+- TryHackMe
+- Linux
+- Networking
+- Cybersecurity fundamentals
 
 ## Learning Platform
 - TryHackMe: https://tryhackme.com/p/christabel.kerubo
